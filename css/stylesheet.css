@@ -15,3 +15,8 @@ body {
 	background-color: gray;
 	color: white;
 }
+
+.comment:hover {
+	border-color: green;
+	background-color: light gray;
+}
