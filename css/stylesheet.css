@@ -6,5 +6,5 @@ body {
 }
 
 .comment {
-	background-color: gray;
+	border-color: red;
 }
